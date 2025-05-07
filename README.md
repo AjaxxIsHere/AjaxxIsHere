@@ -64,6 +64,8 @@
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ajaxxishere&show_icons=true&locale=en" alt="ajaxxishere" /></p>
 
+![snake gif](https://github.com/AjaxxIsHere/AjaxxIsHere/blob/output/github-snake-dark.svg)
+
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaxxishere" alt="ajaxxishere" /></a> </p>
 </div>
 
