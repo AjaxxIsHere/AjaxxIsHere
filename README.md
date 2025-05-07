@@ -4,6 +4,10 @@
 <div align="left">
 <p> <img src="https://komarev.com/ghpvc/?username=ajaxxishere&label=Profile%20views&color=0e75b6&style=flat" alt="ajaxxishere" /> </p>
 
+<div align="center">
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ajaxxishere&show_icons=true&locale=en&theme=dark" alt="ajaxxishere" /></p>
+</div>
+
 - 🌱 I’m currently learning **Flutter, React, AWS, Rust**
 
 - 💬 My interests are **App development, linux, gaming, and cats!**
@@ -18,7 +22,7 @@
 
 <hr>
 
-<h3 align="center">Connect with me!</h3>
+<h3 align="center">🌐 Connect with me!</h3>
 <div align="center">
 <a href="https://linkedin.com/in/mohamad-ajaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-ajaz" height="30" width="40" /></a>
 <a href="https://instagram.com/yours.truly_aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yours.truly_aj" height="30" width="40" /></a>
@@ -26,7 +30,7 @@
 
 <hr>
 
-<h3 align="center">My Fav Languages and Tools:</h3>
+<h3 align="center">📌 My Fav Languages and Tools:</h3>
 <div align="center">
 <p> 
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -59,13 +63,16 @@
 
 <hr>
 
-<div align="center">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaxxishere&show_icons=true&locale=en&layout=compact" alt="ajaxxishere" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ajaxxishere&show_icons=true&locale=en" alt="ajaxxishere" /></p>
+<h3 align="center">📉 My Timeline:</h3>
 
 ![snake gif](https://github.com/AjaxxIsHere/AjaxxIsHere/blob/output/github-snake-dark.svg)
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaxxishere" alt="ajaxxishere" /></a> </p>
+<hr>
+
+<h3 align="center">📈 More stats:</h3>
+<div align="center">
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaxxishere&show_icons=true&locale=en&layout=compact&theme=dark" alt="ajaxxishere" /></p>
+
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaxxishere&theme=darkhub" alt="ajaxxishere" /></a> </p>
 </div>
 
