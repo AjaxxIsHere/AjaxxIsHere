@@ -6,15 +6,15 @@
 
 - 🌱 I’m currently learning **Flutter, React, AWS, Rust**
 
-- 👨‍💻 Visit my website :) [https://aj-portfolio-a8faa.web.app/](https://aj-portfolio-a8faa.web.app/)
+- 👨‍💻 Visit my website :) [Here!](https://aj-portfolio-a8faa.web.app/)
 
-- 💬 My interests are **gaming, app development, linux, cats!**
+- 💬 My interests are **App development, linux, gaming, and cats!**
 
-- 📫 How to reach me **ajaz2468@gmail.com**
+- 📫 Drop me an email at **ajaz2468@gmail.com**
 
-- 📄 Hire me! [https://drive.google.com/uc?export=download&id=1hoXzID9TfZssqsTdfiYnB_C_sbPmRba8](https://drive.google.com/uc?export=download&id=1hoXzID9TfZssqsTdfiYnB_C_sbPmRba8)
+- 📄 Take a look at my CV! [Here!](https://drive.google.com/uc?export=download&id=1hoXzID9TfZssqsTdfiYnB_C_sbPmRba8)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamad-ajaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad-ajaz" height="30" width="40" /></a>
 <a href="https://instagram.com/yours.truly_aj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yours.truly_aj" height="30" width="40" /></a>
