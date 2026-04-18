@@ -35,7 +35,7 @@
 <h3 align="center">🌐 Connect with me!</h3>
 <p align="center">
 <a href="https://linkedin.com/in/mohamad-ajaz" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamad-ajaz" /></a>
-<a href="https://instagram.com/yours.truly_aj" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yours.truly_aj" /></a>
+<a href="https://www.instagram.com/yours.truly__aj" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="yours.truly_aj" /></a>
 </p>
 
 <hr>
