@@ -16,9 +16,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajaxxishere&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AJ's Top Languages" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajaxxishere&theme=dracula" alt="ajaxxishere" /></a>
-</div>
+</div> -->
 
 <br/>
 
@@ -26,9 +26,9 @@
 
 - 🌱 I’m currently learning **Flutter, React, AWS, Rust**
 - 💬 My interests are **App development, Linux, Gaming, and Cats!**
-- 👨‍💻 Visit my WebApp [Here!](https://aj-portfolio-a8faa.web.app/) :)
+- 👨‍💻 Visit my WebApp [Here!](https://mohamadajaz.studio/) :)
 - 📫 Drop me an email at **ajaz2468@gmail.com**
-- 📄 Wanna hire me? Take a look at my CV [Here!](https://drive.google.com/uc?export=download&id=1hoXzID9TfZssqsTdfiYnB_C_sbPmRba8)
+- 📄 Wanna hire me? Take a look at my CV [Here!](https://drive.google.com/file/d/1wIb5c7565DgOCf0hyet-cxF2lAD3rW5A/view?usp=drive_link)
 
 <hr>
 
