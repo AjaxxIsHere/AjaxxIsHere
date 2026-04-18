@@ -42,7 +42,7 @@
 
 <h3 align="center">📌 My Tech Stack:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,aws,c,cpp,css,dart,docker,dotnet,figma,firebase,flutter,gcp,git,html,java,js,linux,mongodb,mysql,nodejs,python,react,rust&perline=8" />
+  <img src="https://skillicons.dev/icons?i=android,aws,c,cpp,css,dart,docker,dotnet,figma,firebase,flutter,gcp,git,html,java,js,linux,mongodb,mysql,nodejs,python,react,rust,n8n,openclaw&perline=8" />
 </p>
 
 <hr>
