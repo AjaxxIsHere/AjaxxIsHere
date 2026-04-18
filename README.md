@@ -42,7 +42,7 @@
 
 <h3 align="center">📌 Things I Use:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,arch,aws,c,cpp,css,dart,docker,dotnet,figma,firebase,flutter,gcp,git,html,java,js,linux,mongodb,mysql,nodejs,python,react,rust,wordpress,vscode,ubuntu,ocaml,notion,gitlab,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,arch,aws,bash,c,cpp,css,dart,docker,dotnet,figma,firebase,flutter,gcp,git,html,java,js,linux,mongodb,mysql,nodejs,python,react,rust,wordpress,vscode,ubuntu,ocaml,notion,gitlab,github&perline=8" />
 </p>
 
 <hr>
