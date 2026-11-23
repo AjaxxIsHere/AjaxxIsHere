@@ -26,9 +26,9 @@
 
 - 🌱 I’m currently learning **Flutter, React, AWS, Rust**
 - 💬 My interests are **App development, Linux, Gaming, and Cats!**
-- 👨‍💻 Visit my WebApp [Here!](https://mohamadajaz.studio/) :)
+- 👨‍💻 Visit my WebApp [Here!](https://www.mohamadajaz.com/) :)
 - 📫 Drop me an email at **ajaz2468@gmail.com**
-- 📄 Wanna hire me? Take a look at my CV [Here!](https://drive.google.com/file/d/1wIb5c7565DgOCf0hyet-cxF2lAD3rW5A/view?usp=drive_link)
+- 📄 Wanna hire me? Take a look at my CV [Here!](https://drive.google.com/file/d/1UCVqEORwDTXfL9cMx6on533nwDalOS99/view?usp=sharing)
 
 <hr>
 
